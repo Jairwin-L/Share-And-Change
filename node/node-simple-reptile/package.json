@@ -1,0 +1,7 @@
+{
+  "name": "node-simple-reptile",
+  "version": "",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.2"
+  }
+}
