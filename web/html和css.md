@@ -71,3 +71,29 @@ top: 50%;
 left: 50%;
 transform: translate(width/2, height/2);
 ```
+#### html模板
+```html
+<!DOCTYPE html>
+<html>
+	<head>
+		<meta charset="utf-8" />
+		<meta name="viewport" content="width=device-width,initial-scale=1,minimum-scale=1,maximum-scale=1,user-scalable=no,viewport-fit=cover">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge">
+		<meta name="Author" content="Jairwin">
+		<title></title>
+		<link rel="icon" href="" type="image/x-icon" />
+		<link rel="stylesheet" type="text/css" href=""/>
+	</head>
+	<body>
+		
+		<div class="wrap"></div>
+		
+		<script type="text/javascript" charset="utf-8">
+			(() => {
+				
+			})();			
+		</script>
+		
+	</body>
+</html>
+```
